@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotszhin223&label=Profile%20views&color=0e75b6&style=flat" alt="hotszhin223" /> </p>
 
-- 🔭 I’m currently working on **CFA Level I Exam**
+- 🔭 I’m currently studying for **CFA Level II and ACMAS Exam**
 
-- 🌱 I’m currently learning **Financial Statement Analysis & Quantitative Methods**
+- 🌱 I’m currently working as a consultant in **Risk Management**
 
 - 💬 Ask me about **Life and culture in HK**
 
